@@ -1,0 +1,3 @@
+[submodule "libs/allocators"]
+	path = libs/allocators
+	url = git@github.com:itedya/allocators.git
